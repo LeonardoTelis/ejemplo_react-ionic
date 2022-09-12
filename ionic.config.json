@@ -1,0 +1,7 @@
+{
+  "name": "cursoreact2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
